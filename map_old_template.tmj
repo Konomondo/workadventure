@@ -812,6 +812,34 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":129.522736871744,
+                 "id":20,
+                 "name":"quietZone",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":192.876249472054,
+                 "x":1085.45684921864,
+                 "y":540.616640855976
+                }, 
+                {
+                 "height":0,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":772.912853723779,
+                 "y":527.945938335914
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -972,7 +1000,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":20,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1001,7 +1029,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.11.2",
+ "tiledversion":"1.8.6",
  "tileheight":32,
  "tilesets":[
         {
@@ -1160,6 +1188,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.10",
+ "version":"1.8",
  "width":80
 }
